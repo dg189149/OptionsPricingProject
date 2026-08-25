@@ -9,4 +9,6 @@ Make sure that in using the engine in your own code you include the block of cod
 # Include the rest of your libraries here
 ```
 
+I compiled all code using `c++ -Wall -Wextra -std=c++17`.
+
 I really don't know what else to do here, this is very much in WIP.
